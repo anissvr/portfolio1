@@ -1,10 +1,19 @@
 @font-face {
     font-family: poppins;
-    src: url(fonts/Ubuntu-Bold.ttf);
+    src: url(fonts/Ubuntu-Regular.ttf);
 }
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family: poppins;
+}
+h1{
+    font-size: 40px;
+    margin-top: 20px;
+
+}
+.gold-color{
+    color: #FFA500;
+
 }
