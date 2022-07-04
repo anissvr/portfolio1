@@ -21,6 +21,7 @@
 
 .half-width {
     width: 50%;
+    padding: 0 3%;
 }
 
 .half-width img {
@@ -40,7 +41,7 @@ h1 {
 
 }
 
-h4 {
+h3 {
     text-transform: capitalize;
     margin: 20px 0px;
 
@@ -56,4 +57,13 @@ h4 {
     font-weight: 600;
     text-transform: capitalize;
     margin-top: 20px;
+}
+
+.dream {
+    background-image: url(img/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    display: flex;
+    padding: 2% 4%;
+    margin: 100px 0px;
 }
