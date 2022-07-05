@@ -56,7 +56,7 @@ h3 {
     color: rgb(255, 255, 255);
     display: inline-block;
     background-image: linear-gradient(orange, tomato);
-    padding: 10px 20px;
+    padding: 10px 40px;
     border-radius: 5px;
     font-weight: 600;
     text-transform: capitalize;
@@ -70,4 +70,32 @@ h3 {
     display: flex;
     padding: 2% 4%;
     margin: 100px 0px;
+}
+
+.experience {
+    background-image: url(img/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+.full {
+    width: 50%;
+    margin: 1% 2%;
+    box-shadow: 10px 10px 40px grey;
+    padding: 60px 40px;
+    border-radius: 10px;
+}
+
+#left {
+    border-left: 7px solid tomato;
+}
+
+#right {
+    border-left: 7px solid blue;
+}
+
+footer p {
+    text-align: center;
+    font-weight: 700;
+    padding: 20px 0px;
 }
