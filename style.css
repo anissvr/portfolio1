@@ -10,12 +10,16 @@
     font-family: poppins;
 }
 
-.hiro-section {
-    background-image: url(img/top-banner.png);
-    background-repeat: no-repeat;
+.flex-container {
     display: flex;
     width: 100%;
     padding: 2% 4%;
+
+}
+
+.hiro-section {
+    background-image: url(img/top-banner.png);
+    background-repeat: no-repeat;
 
 }
 
