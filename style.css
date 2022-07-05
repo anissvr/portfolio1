@@ -76,6 +76,7 @@ h3 {
     background-image: url(img/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
+
 }
 
 .full {
@@ -84,6 +85,7 @@ h3 {
     box-shadow: 10px 10px 40px grey;
     padding: 60px 40px;
     border-radius: 10px;
+
 }
 
 #left {
